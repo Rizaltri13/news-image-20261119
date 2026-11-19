@@ -387,7 +387,7 @@ def draw_page():
     tx = hx + 404
     draw_text(tx, hy + 16, "LEAD STORY", 2, RED2)
     hline(tx, hy + 36, 150, RED2, 3)
-    para(tx, hy + 50, "TRUMP, XI AND PUTIN MEET IN CHINA", 4, 560, INK, 36)
+    para(tx, hy + 50, "TRUMP, XI AND PUTIN MEET IN SHENZHEN", 4, 560, INK, 36)
     para(tx, hy + 168,
          "The three leaders shake hands in Shenzhen at a regional summit. "
          "Xi hugged Trump on the tarmac on arrival. A trilateral meeting "
